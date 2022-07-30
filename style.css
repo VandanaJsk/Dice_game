@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Lobster;
+    box-sizing: border-box;
+    background-color: #35353F;
+}
+
+h1{
+    text-align: center;
+    color: #44C498;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+p{
+    display: inline;
+    color: #44C498;
+    font-size: 1.3rem;
+}
+
+.first-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 30px;
+}
+
+.player-1{
+    margin-right: 80px;
+}
+
+.player-2{
+    margin-left: 80px;
+}
+
+.second-container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 220px;
+    height: auto;
+}
